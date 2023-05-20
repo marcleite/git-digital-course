@@ -1,1 +1,1 @@
-# Esse é meu primeiro projeto com Git
+# Esse é o meu primeiro projeto com Git
